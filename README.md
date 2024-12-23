@@ -29,9 +29,6 @@ This repository contains the solutions for the assignments on **Shipment Delay P
 - The **Shipment Delay Prediction** solution is implemented in a Jupyter Notebook.
 - The code includes detailed comments to explain the logic and methodology.
 
-### Image Classification
-- The **Image Classification** solution is implemented in the application.
-- All relevant details and functionality are incorporated into the scripts.
 
 ---
 

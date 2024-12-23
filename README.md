@@ -37,10 +37,8 @@ This repository contains the solutions for the assignments on **Shipment Delay P
 
 ## Demo
 
-A demonstration of the application is available below:  
-```html
-<video controls src="Shipment_delay_prediction.mp4" title="Shipment Delay Prediction Demo"></video>
-```
+[Download the demo video](Shipment_delay_prediction.mp4)
+
 
 
 

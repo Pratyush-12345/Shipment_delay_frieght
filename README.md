@@ -1,6 +1,6 @@
-# Frieght Tiger Assignment
+# Freight Tiger Assignment
 
-This repository contains the solutions for the assignments on **Shipment Delay Prediction** and **Image Classification**, provided by Frieght Tiger.
+This repository contains the solutions for the assignments on **Shipment Delay Prediction** and **Image Classification**, provided by Freight Tiger.
 
 ---
 
